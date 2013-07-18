@@ -1,6 +1,5 @@
 Tyler S. Miller  
 ===
-___
 14304 178th Ave. SE - Renton, WA. 98059 | (208) 691-0040  
 me@tlrmlr.com | http://millert.is2.byuh.edu/phpDocuments/index.php
 
