@@ -1,24 +1,25 @@
 Tyler S. Miller  
-===============
----------------
+===
+___
 14304 178th Ave. SE - Renton, WA. 98059 | (208) 691-0040  
 me@tlrmlr.com | http://millert.is2.byuh.edu/phpDocuments/index.php
 
-### TECHNICAL EXPERIENCE
+TECHNICAL EXPERIENCE
+---
 #### Languages:
 Bash, Batch, C, C++, C#, CMD.EXE, CSS, HTML, Java, Perl, PHP, PowerShell, Ruby, SQL (MySQL and SQLite), Visual Basic  
 #### Operating Systems:  
 Windows(Desktop, Server), Linux (Debian/Ubuntu, XenServer), Mac OSX
 
-### SPECIAL EXPERIENCE/ACCOMPLISHMENTS
-
+SPECIAL EXPERIENCE/ACCOMPLISHMENTS
+---
 * Exceptional troubleshooting and debugging in the previously mentioned languages.  Hands on experience with debugging both logic and syntax errors for familiar and unfamiliar languages
 * Fluent in the spoken languages of Portuguese, and Spanish.  Both languages were self-taught by immersion into non-English speaking environments.  Understand, read, and moderately communicate in Italian, and Romanian
 * Attained the rank of Eagle scout
 * Experienced as a foreman/project manager in the construction industry.  Managed multiple work forces of up to 20 employees
 
-### WORK EXPERIENCE
-
+WORK EXPERIENCE
+---
 #### Junior Quality Assurance Test Engineer  
 Polaris Global Mobility (Bellevue, WA)  
 January 2013 - current
@@ -58,16 +59,16 @@ Accomplishments:
 * Leveraged communication and interpersonal skills in multicultural setting by interacting with students from approximately 50 different countries
 * Assisted in the processes of hiring, firing, and evaluation of employees
 
-### COMMUNITY AND VOLUNTEER SERVICE
-
+COMMUNITY AND VOLUNTEER SERVICE
+---
 * Worked as a representative for The Church of Jesus Christ of Latter-day Saints in Belo Horizonte, Brazil from 2001-2003:
 	+ Functioned as an independent regional manager with minimal supervision.  Developed work-plans and reported progress on a weekly basis
 	+ Accountable for the health and safety of approximately 50-70 other representatives for one year
 	+ Assisted in various fund raisers for charitable causes in the Laie, Hawaii community
 * Helped a small business owner develop a geocaching program for recreational use on hand-held GPS devices
 
-### EDUCATION
-
+EDUCATION
+---
 * Brigham Young University - Hawaii  
 Graduated December 2012  
 Bachelor of Science - Computer Science  
