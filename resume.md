@@ -1,14 +1,7 @@
 Tyler S. Miller  
 ===
 14304 178th Ave. SE - Renton, WA. 98059 | (208) 691-0040  
-me@tlrmlr.com | http://millert.is2.byuh.edu/phpDocuments/index.php
-
-TECHNICAL EXPERIENCE
----
-#### Languages:
-Bash, Batch, C, C++, C#, CMD.EXE, CSS, HTML, Java, Perl, PHP, PowerShell, Ruby, SQL (MySQL and SQLite), Visual Basic  
-#### Operating Systems:  
-Windows(Desktop, Server), Linux (Debian/Ubuntu, XenServer), Mac OSX
+Tyler.Shawn.Miller@gmail.com | http://millert.is2.byuh.edu/phpDocuments/index.php
 
 SPECIAL EXPERIENCE/ACCOMPLISHMENTS
 ---
@@ -19,35 +12,48 @@ SPECIAL EXPERIENCE/ACCOMPLISHMENTS
 
 WORK EXPERIENCE
 ---
-#### Junior Quality Assurance Test Engineer  
+#### White Box Quality Assurance Test Engineer  
 Polaris Global Mobility (Bellevue, WA)  
 January 2013 - current
 
+Technical Environment and Skills:
+
+* Windows, MS CUITe (Coded UI Test enhanced) Framework, WatiN, Nunit, MySQL, C#, VBScript
+
 Accomplishments:
 
-* Developed the testing framework used to validate the functionality of successive version releases of the Expentia web application using Microsoft Test Manager
+* White box tested numerous features and bugs across multiple versions of the Expentia web application
+* Developed testing libraries used to validate the functionality of successive version releases of the Expentia web application
+* Developed the automated tests for each client for the current and upcoming build versions
 * Designed the Polaris sharepoint site
-* Developed VB scripts to deploy updated code to production, development and test servers
+* Developed VB scripts to deploy updated code to various staging environments
 * Developed scripts to assist in the automated testing of new Expentia versions
 
 #### Systems Engineer (Internship Position)
 Clearwater Analytics (BOISE, ID)  
 March 2012 - September 2012
 
+Technical Environment and Skills:
+
+* Linux, Windows, Apache, MySQL, Sqlite, PHP, Powershell, Batch, Bash
+
 Accomplishments:
 
-* Developed proprietary web application for network management, including:
-	+ Software patch management page allowing deployment of updated software to all windows devices across the network
+* Built and configured LAMP and WAMP stack servers from the ground up to develop both the front and back ends of a network management system, including:
+	+ Software patch management page allowing deployment of software updates to all windows devices across the network
 	+ Server and virtual machine management interface to display vital information from the last known running configurations for disaster recovery purposes
 	+ Switch management page to display port information across the company network.  Includes search-able database of all pertinent information to IT
-* Developed automated silent install scripts for both Windows and Linux installs, including post OS installs of any software needed based on department.  Utilized scripting languages including Batch, Bash, PowerShell and CMD.EXE
-* Automated the creation of new users in Active Directory using Powershell
-* Automated exchange mail-box creation using Powershell
+* Developed automated silent install scripts for both Windows and Linux installations, including post OS installs of any software needed based on department
+* Used Powershell to create new users acounts in both Active Directory and Exchange
 * Helped with the IT ticketing system
 
 #### Computer and Information Systems Lead Tutor
 Brigham Young University - Hawaii (LAIE, HI)  
 March 2011 - December 2012
+
+Technical Environment and Skills:
+
+* Linux, Windows, Android, MySQL, Java, Perl, PHP, Ruby, Ruby on Rails, Prolog, C, C++, C#, HTML\CSS
 
 Accomplishments:
 
