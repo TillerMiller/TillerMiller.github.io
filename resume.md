@@ -1,18 +1,18 @@
 Tyler S. Miller  
 ===
 14304 178th Ave. SE - Renton, WA. 98059 | (208) 691-0040  
-Tyler.Shawn.Miller@gmail.com | http://millert.is2.byuh.edu/phpDocuments/index.php
+Tyler.Shawn.Miller@gmail.com | http://github.com/TillerMiller
 
 SPECIAL EXPERIENCE/ACCOMPLISHMENTS
 ---
-* Exceptional troubleshooting and debugging in the previously mentioned languages.  Hands on experience with debugging both logic and syntax errors for familiar and unfamiliar languages
-* Fluent in the spoken languages of Portuguese, and Spanish.  Both languages were self-taught by immersion into non-English speaking environments.  Understand, read, and moderately communicate in Italian, and Romanian
+* Exceptional troubleshooting and debugging in various languages (as noted in the 'Work Experience' section). Hands on experience with debugging both logic and syntax errors for familiar and unfamiliar languages
+* Fluent in the spoken languages of Portuguese, and Spanish. Both languages were self-taught by immersion into non-English speaking environments. Understand, read, and moderately communicate in Italian, and Romanian
 * Attained the rank of Eagle scout
-* Experienced as a foreman/project manager in the construction industry.  Managed multiple work forces of up to 20 employees
+* Experienced as a foreman/project manager in the construction industry. Managed multiple work forces of up to 20 employees
 
 WORK EXPERIENCE
 ---
-#### White Box Quality Assurance Test Engineer  
+#### Software Test Engineer  
 Polaris Global Mobility (Bellevue, WA)  
 January 2013 - current
 
@@ -22,12 +22,12 @@ Technical Environment and Skills:
 
 Accomplishments:
 
-* White box tested numerous features and bugs across multiple versions of the Expentia web application
-* Developed testing libraries used to validate the functionality of successive version releases of the Expentia web application
-* Developed the automated tests for each client for the current and upcoming build versions
-* Designed the Polaris sharepoint site
-* Developed VB scripts to deploy updated code to various staging environments
+* Developed scripts to deploy updated code to various staging environments
 * Developed scripts to assist in the automated testing of new Expentia versions
+* Developed automated build verification tests for each clients current and upcoming build versions
+* Designed Polaris' internal sharepoint site
+* Developed testing libraries used to validate the functionality of successive version releases of the Expentia web application
+* White box tested numerous features and bugs across multiple versions of the Expentia web application
 
 #### Systems Engineer (Internship Position)
 Clearwater Analytics (BOISE, ID)  
@@ -45,7 +45,7 @@ Accomplishments:
 	+ Switch management page to display port information across the company network.  Includes search-able database of all pertinent information to IT
 * Developed automated silent install scripts for both Windows and Linux installations, including post OS installs of any software needed based on department
 * Used Powershell to create new users acounts in both Active Directory and Exchange
-* Helped with the IT ticketing system
+* Assisted with IT desktop support
 
 #### Computer and Information Systems Lead Tutor
 Brigham Young University - Hawaii (LAIE, HI)  
