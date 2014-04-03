@@ -8,7 +8,7 @@ SPECIAL EXPERIENCE/ACCOMPLISHMENTS
 * Exceptional troubleshooting and debugging in various languages (as noted in the 'Work Experience' section). Hands on experience with debugging both logic and syntax errors for familiar and unfamiliar languages
 * Fluent in the spoken languages of Portuguese, and Spanish. Both languages were self-taught by immersion into non-English speaking environments. Understand, read, and moderately communicate in Italian, and Romanian
 * Attained the rank of Eagle scout
-* Experienced as a foreman/project manager in the construction industry. Managed multiple work forces of up to 20 employees
+* Experienced as a foreman/project manager in the construction industry. Managed multiple work forces of up to 15 employees
 
 WORK EXPERIENCE
 ---
