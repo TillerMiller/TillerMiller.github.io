@@ -1,7 +1,9 @@
 Tyler S. Miller  
 ===
-14304 178th Ave. SE - Renton, WA. 98059 | (208) 691-0040  
-Tyler.Shawn.Miller@gmail.com | http://github.com/TillerMiller
+14304 178th Ave. SE - Renton, WA. 98059
+:telephone_receiver: (208) 691-0040  
+:envelope: Tyler.Shawn.Miller@gmail.com
+:bust_in_silhouette: http://github.com/TillerMiller
 
 SPECIAL EXPERIENCE/ACCOMPLISHMENTS
 ---
