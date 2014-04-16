@@ -4,7 +4,7 @@
 :telephone_receiver: (208) 691-0040  
 :envelope: Tyler.Shawn.Miller@gmail.com  
 :bust_in_silhouette: http://github.com/TillerMiller  
-````height: auto````
+
 SPECIAL EXPERIENCE/ACCOMPLISHMENTS
 ---
 * Exceptional troubleshooting and debugging in various languages (as noted in the 'Work Experience' section). Hands on experience with debugging both logic and syntax errors for familiar and unfamiliar languages
