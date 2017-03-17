@@ -14,9 +14,33 @@ SPECIAL EXPERIENCE/ACCOMPLISHMENTS
 
 WORK EXPERIENCE
 ---
+#### Co-Owner
+Tom Miller Roofing (Renton, WA)  
+May 2015 -- current
+
+Accomplishments:
+
+* Administrated daily opperations for the Washington branch of TMR
+* Carried out all hirings and firings in the Washington region
+* Played an integral role in TMR grossing over .5 million in quarter 3 of 2016
+
+#### IT Career Foundational Program Participant (Application Migration Specialist)
+Boeing (Renton, WA)
+July 2014 - May 2015
+
+Technical Environment and Skills:
+
+* Windows, Access, SQL, HTML/CSS
+
+Accomplishments:
+
+* Administrated the migration of thousands of application to 3 centralized data centers
+* Collected weekly progress data across all 5 organizations within Boeing for report to the president of IT operations
+* Monitored application compliance for various homegrown programs utilized within Boeing 
+
 #### Software Test Engineer  
-Polaris Global Mobility (Bellevue, WA)  
-January 2013 - current
+Polaris Global Mobility (Bellevue, WA)
+January 2013 - July 2014
 
 Technical Environment and Skills:
 
@@ -31,8 +55,8 @@ Accomplishments:
 * Developed testing libraries used to validate the functionality of successive version releases of the Expentia web application
 * White box tested numerous features and bugs across multiple versions of the Expentia web application
 
-#### Systems Engineer (Internship Position)
-Clearwater Analytics (BOISE, ID)  
+#### Helpdesk Support (Internship Position)
+Clearwater Analytics (BOISE, ID)
 March 2012 - September 2012
 
 Technical Environment and Skills:
