@@ -30,13 +30,16 @@ July 2014 - May 2015
 
 Technical Environment and Skills:
 
-* Windows, Access, SQL, HTML/CSS
+* Windows, Access, SQL, HTML/CSS, Office Suite
 
 Accomplishments:
 
-* Administrated the migration of thousands of application to 3 centralized data centers
-* Collected weekly progress data across all 5 organizations within Boeing for report to the president of IT operations
-* Monitored application compliance for various homegrown programs utilized within Boeing 
+* Worked as a program manager for the Data Center Modernization program with the following responsibilities:
+	+ Generate monthly reporting metrics to both the Director and VP levels
+	+ Serve as liaison and subject matter expert for DCM imperatives to application focals
+	+ Modernize information visibility to ensure data integrity for reporting purposes
+* Worked as a sourcing specialist to facilitate the acquisition of outsourced IT employment
+* Debugged, updated and maintained various Access applications for both sourcing and DCM programs
 
 #### Software Test Engineer  
 Polaris Global Mobility (Bellevue, WA)
